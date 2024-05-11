@@ -1,7 +1,7 @@
 # Bug Bounty Tools 
 
-> A curated list of various bug bounty tools
-
+> Bug Bounty Tool List Which are useful for Bug Hunting , Ethical Hacking & CyberSecurity
+> 
 ## Contents
 
 - [Recon](#Recon)
