@@ -2,8 +2,17 @@
 
 > Bug Bounty Tool List Which are useful for Bug Hunting , Ethical Hacking & CyberSecurity
 
+## Disclaimer
 
+The tools listed in this repository are provided for educational and informational purposes only. While they can help identify potential security vulnerabilities in web applications, it's essential to use them responsibly and ethically. 
 
+By downloading or using any of the tools listed in this repository, you agree that:
+
+- You will only use them on web applications and systems for which you have explicit permission to test.
+- You will not use them for any illegal, unethical, or malicious activities, including but not limited to unauthorized access to systems or data.
+- You understand that improper use of these tools may result in legal consequences.
+
+The maintainers of this repository are not responsible for any misuse or illegal activity conducted with the tools provided herein. Use them at your own risk and discretion.
 
 
 ## Contents
